@@ -1,0 +1,3 @@
+C:/Users/matti/CLionProjects/campo_minato/cmake-build-debug/CMakeFiles/campo_minato.dir
+C:/Users/matti/CLionProjects/campo_minato/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matti/CLionProjects/campo_minato/cmake-build-debug/CMakeFiles/rebuild_cache.dir
